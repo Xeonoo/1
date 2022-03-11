@@ -1,0 +1,11 @@
+body{
+    background-color: paleturquoise;
+}
+p{
+    color: peru;
+}
+img{
+    float: left;
+    width: 200px;
+    height: 150px;
+}
